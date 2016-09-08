@@ -1,4 +1,5 @@
 # charDance
+Character Manipulation Practice
 Program my professor had me write years ago. 
 
 Allows input from the user; a number and string.
