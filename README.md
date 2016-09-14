@@ -1,4 +1,4 @@
-# charDance
+# charDance (c)
 Character Manipulation Practice
 Program my professor had me write years ago. 
 
